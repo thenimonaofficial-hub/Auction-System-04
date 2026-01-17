@@ -1,6 +1,6 @@
 {
   "name": "auction-bot",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "A Discord bot for live auctions",
   "main": "bot.js",
   "scripts": {
